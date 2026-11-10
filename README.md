@@ -4,3 +4,4 @@ https://assetstore.unity.com/packages/audio/music/tabletop-jazz-cafe-free-music-
 https://assetstore.unity.com/packages/3d/environments/urban/simple-cafe-258876
 https://polyhaven.com/a/red_brick
 https://polyhaven.com/a/lacquered_cherry_wood
+https://assetstore.unity.com/packages/3d/props/inflatables-316990
